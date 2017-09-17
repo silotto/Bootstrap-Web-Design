@@ -1,0 +1,21 @@
+.jumbotron {
+    background: url(../img/ChairsL.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 450px;
+    font-family: 'Voltaire', sans-serif;
+}
+
+p {
+	text-align:justify;
+}
+
+
+h3 {
+	font-family: 'Poiret One', cursive;
+}
+
+h4 {
+	font-family: 'Righteous', cursive;
+}
